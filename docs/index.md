@@ -6,7 +6,8 @@ For full MkDocs documentation visit [mkdocs.org](http://mkdocs.org).
 
 1. Create mew MkDocs project
 2. Copy project in GitHub repository
-3. Make change whith git flow methodology 
+3. Make change whith git flow methodology
+4. Repeat 
 
 
 ## Commands
