@@ -1,4 +1,4 @@
 # Training repository
 
-I'm learning to use Git and Git flow
+I'm learning Git and Git flow
 
