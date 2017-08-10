@@ -1,1 +1,6 @@
 site_name: My Project
+
+pages:
+        - Home: Index.md
+        - About: About.md
+
